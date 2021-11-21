@@ -1,6 +1,26 @@
-# buildspace Mint Your Own NFT Collection
+# My NFT Collection
+With this project, I programmatically generated my own NFT collection, wrote and deployed a smart contract in Solidity, and built my own React dApp to let my friends connect their Metamask wallets and interact with my NFTs
 
-### **Welcome 👋**
+## Frameworks used
+<ul>
+  <li>React.js</li>
+  <li>Solidity</li>
+</ul>
+
+## Technologies used while building
+<ul>
+  <li>Alchemy</li>
+  <li>Opensea</li>
+  <li>TESTNET</li>  
+</ul>
+
+## Test out the live application
+[My NFT Collection](https://mynftcollection.netlify.app/)
+
+## Solidity code
+https://github.com/Heizal/epic-nfts
+
+## Clone the project
 To get started with this course, clone this repo and follow these commands:
 
 1. Run `npm install` at the root of your directory
