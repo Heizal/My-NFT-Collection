@@ -17,8 +17,8 @@ With this project, I programmatically generated my own NFT collection, wrote and
 ## Test out the live application
 [My NFT Collection](https://mynftcollection.netlify.app/)
 
-## Solidity code
-https://github.com/Heizal/epic-nfts
+## Solidity code on etherscan
+[Here](https://rinkeby.etherscan.io/address/0x7a2E175ce515C5c684D7F680B66739886419587E#code)
 
 ## Clone the project
 To get started with this course, clone this repo and follow these commands:
